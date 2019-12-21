@@ -1,2 +1,12 @@
-# PythonTranningProject
-Python中高级定制培训
+## Python中高级定制培训
+* 程序设计基础
+* 核心编程
+* 框架开发
+* 网络爬虫技术
+* Scrapy 网络爬虫框架
+* Python数据预处理与分析
+* 数据挖掘算法
+* Python数据挖掘
+* 综合案例
+* 考前辅导
+
